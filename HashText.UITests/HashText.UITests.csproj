@@ -5,8 +5,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{7CAFE276-59B2-4CB6-80FA-B21BB3367873}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Tutorial.UITests</RootNamespace>
-    <AssemblyName>Tutorial.UITests</AssemblyName>
+    <RootNamespace>HashText.UITests</RootNamespace>
+    <AssemblyName>HashText.UITests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -37,7 +37,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tutorial\HashText.csproj">
+    <ProjectReference Include="..\HashText\HashText.csproj">
       <Project>{0CE58872-64CB-48F4-A832-DE9636459328}</Project>
       <Name>HashText</Name>
       <ReferenceOutputAssembly>False</ReferenceOutputAssembly>

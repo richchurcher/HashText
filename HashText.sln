@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashText", "Tutorial\HashText.csproj", "{0CE58872-64CB-48F4-A832-DE9636459328}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashText", "HashText\HashText.csproj", "{0CE58872-64CB-48F4-A832-DE9636459328}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.UITests", "Tutorial.UITests\Tutorial.UITests.csproj", "{7CAFE276-59B2-4CB6-80FA-B21BB3367873}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashText.UITests", "HashText.UITests\HashText.UITests.csproj", "{7CAFE276-59B2-4CB6-80FA-B21BB3367873}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
